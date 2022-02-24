@@ -1,0 +1,10 @@
+num1=input('ENTER THE NUMS1:')
+num2=input('ENTER THE NUMS2:')
+num3=input('ENTER THE NUMS3:')
+num4=input('ENTER THE NUMS4:')
+num5=input('ENTER THE NUMS5:')
+num6=input('ENTER THE NUMS6:')
+num7=input('ENTER THE NUMS7:')
+num8=input('ENTER THE NUMS8:')
+a={num1,num2,num3,num4,num5,num6,num7,num8}
+print(set(a))

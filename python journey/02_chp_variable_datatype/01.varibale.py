@@ -1,0 +1,23 @@
+_abbbb1='BINOD'
+B=100
+c='''
+drghds
+dsfthsd
+thsd
+ht
+fd
+th
+sdf
+th
+fdt
+h
+dft rfu'''
+d=None
+e=22.22
+print(_abbbb1)
+print(B)
+print(c)
+print(d)
+print(type(_abbbb1))
+print(type(B))
+print(type(e))      
